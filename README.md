@@ -20,4 +20,9 @@ Repository for Front-End Course Kottans
 ![](img/levels_main.png)
 ![](img/levels_remote.png)
 
+## Linux CLI
 
+Команди Linux - done! Насправді, цей етап навчання не виявився для мене новим, адже свого часу я працював системним адміністратором
+і про Linux (та інші UNIX-системи) уявлення мав. Але "освіжити" знання ніколи не завадить, особливо якщо це база!
+
+![](task_linux_cli/linux_task.png)
