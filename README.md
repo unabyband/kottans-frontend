@@ -26,3 +26,12 @@ Repository for Front-End Course Kottans
 і про Linux (та інші UNIX-системи) уявлення мав. Але "освіжити" знання ніколи не завадить, особливо якщо це база!
 
 ![](task_linux_cli/linux_task.png)
+
+## Git collaboration
+
+Git collaboration - done! Цікава і вочевидь корисна для майбутньої професії тема. Логіка роботи VCS Git - не завжди виявляється очевидною, але завдяки чудовим візуалізованим рівням learngitbranching.js.org, матеріал засвоюється із задоволенням. 
+Наскільки, що навіть спробував вирішити задачі з необов'язкових рівнів, хочу повернутися до них пізніше - прикольний інтерактив :)
+
+![](task_git_collaboration/git_collab1.png)
+
+![](task_git_collaboration/git_collab2.png)
