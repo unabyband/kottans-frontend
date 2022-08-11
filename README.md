@@ -35,3 +35,18 @@ Git collaboration - done! Цікава і вочевидь корисна для
 ![](task_git_collaboration/git_collab1.png)
 
 ![](task_git_collaboration/git_collab2.png)
+
+## Intro to HTML and CSS
+
+![](task_html_css_intro/coursera_firstweek1.png)
+![](task_html_css_intro/coursera_firstweek2.png)
+![](task_html_css_intro/coursera_secondweek.png)
+
+Прослухав перші два тижні курсу Introduction to Responsive Design, було інформативно та досить наглядно. Матеріал виявився практично новим, так як раніше я майже не вивчав HTML та CSS. В той же час, багато чого було зрозуміло з першого разу. Здивувало, або точніше трохи заплутало пояснення flow документа Html, в курсах Codeacademy (які я проходив далі) всі ці речі були пояснені більш просто та детально. 
+Окремо запам'ятався Twitter BootStrap та поділ вмісту веб-сторінки на 12 частин, як я розумію - це наріжний камінь майбутньої професії frontend-розробника.
+
+![](task_html_css_intro/learn_html.png)
+![](task_html_css_intro/learn_css.png)
+
+ФУУУХ, а це вже було насправді - корисно, об'ємно та практично! Завдяки цьому курсу я набагато краще засвоїв матеріал із попередньої частини завдання, навіть вдалося трошки поекспериментувати (в рамках завдань, звісно) з CSS-файлом.
+Ура, рухаємося далі. Break the leg!
